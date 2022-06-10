@@ -36,7 +36,7 @@
 						<password>${password}</password>
 						<uri>https://anypoint.mulesoft.com</uri>
 						<muleVersion>${muleVersion}</muleVersion>
-						<applicationName>${appname}-${env}</applicationName>
+						<applicationName>Github-${env}</applicationName>
 						<workers>${workers}</workers>
 						<workerType>${workerType}</workerType>
 						<environment>${env}</environment>
